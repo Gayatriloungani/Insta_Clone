@@ -1,7 +1,6 @@
 import React from 'react'
-import './Profile.css'
 
-export default function Profile() {
+export default function Createpost() {
   return (
     <div>
       
